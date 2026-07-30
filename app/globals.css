@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fcfcf7;
+  color: #282d26;
+  max-width: 1440px;
+  margin-inline: auto;
+}
